@@ -22,8 +22,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Most used languages :
-| <a href="https://github.com/FidelysNadison/FidelysNadison-readme-stats%22%3E<img align="center" src="https://github-readme-stats.vercel.app/api?username=FidelysNadison_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/FidelysNadison/FidelysNadison-readme-stats%22%3E<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelysNadison=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/FidelysNadison/github-readme-stats%22%3E<img align="center" src="https://github-readme-stats.vercel.app/api?username=FidelysNadison_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FidelysNadison github stats" /></a> | <a href="https://github.com/FidelysNadison-readme-stats%22%3E<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelysNadison=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | 
+
 
 
 
