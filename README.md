@@ -3,7 +3,7 @@
 ## About me :
 - 🌱 I’m a [BeCode](https://becode.org/fr/apprendre/developpeur-web-junior/) leaner .
 - 🔎 Curious, 📚 self-taught, 🎨  creative and  📏 rigorous .
--    My passions are : Guitar🎸 , Roller , Football⚽, Video game🎮 .
+- My passions are : Guitar🎸 , Roller  , Football⚽, Video game🎮 .
 
 ## Contact me on :
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fidelys-nadison-b062a1230/)
@@ -11,8 +11,11 @@
 
 ## Languages and tools :
 ### General tools : 
-
-
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Front-end technologies :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
