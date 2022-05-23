@@ -22,11 +22,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Most used languages :
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=FidelysNadison&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FidelysNadison github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelysNadison&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | -------------
-
-
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidelysNadison&layout=compact&theme=buefy&hide_border=true" />|
+| ------------- 
 
 ### My GitHub stats card : 
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=FidelysNadison&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="FidelysNadison github stats" />|
+| -------------
+
 ### My profile summary card :
